@@ -1,0 +1,9 @@
+[submodule "evcms-frontend"]
+	path = evcms-frontend
+	url = https://github.com/icypherops2019/EVCMS.git
+[submodule "evcms-server"]
+	path = evcms-server
+	url = https://github.com/icypherops2019/eeslserver.git
+[submodule "trip-distance-predictor"]
+	path = trip-distance-predictor
+	url = https://github.com/icypherops2019/Trip_distance_Predictor.git
